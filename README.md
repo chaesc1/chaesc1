@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaesc1&show_icons=true&theme=radical)
+![JungHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaesc1&show_icons=true&theme=radical)
 
 <img src="https://img.shields.io/badge/Python-133112?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>Python</a> 
