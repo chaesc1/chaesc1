@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Hello%20I%20AM%20CHAEJUNGHUN%20&animation=fadeIn&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=HI%20I%20AM%20CHAEJUNGHUN%20&animation=fadeIn&fontSize=40)
 
 ![JungHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaesc1&show_icons=true&theme=radical)
 
