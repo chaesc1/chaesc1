@@ -12,3 +12,6 @@
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=round-square&logo=NestJS&logoColor=black"/></a> </br>
 <img src="https://img.shields.io/badge/Clang-A8B9CC?style=round-square&logo=C&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=round-square&logo=dotnet&logoColor=black"/></a>
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chaesc1223)](https://solved.ac/chaesc1223)
