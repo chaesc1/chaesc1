@@ -3,7 +3,7 @@
 ![JungHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaesc1&show_icons=true&theme=radical)
 
 ## Tech Stack
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+<img src="https://raw.githubusercontent.com/chaesc1/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
 <br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaesc1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
