@@ -4,7 +4,7 @@
 
 ## Tech Stack
 
-![]([https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaesc1&theme=nord_dark](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}))
+![]([https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaesc1&theme=nord_dark](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={chaesc1}&theme={github_dark}&exclude={c#}))
 <br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaesc1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
