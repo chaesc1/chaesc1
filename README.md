@@ -3,7 +3,8 @@
 ![JungHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaesc1&show_icons=true&theme=radical)
 
 ## Tech Stack
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaesc1&theme=nord_dark)
+
+![]([https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaesc1&theme=nord_dark](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}))
 <br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaesc1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
