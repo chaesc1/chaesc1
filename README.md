@@ -3,7 +3,7 @@
 ![JungHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaesc1&show_icons=true&theme=radical)
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/JAVA-EE3221?style=round-square&logo=python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/JAVA-EE3221?style=round-square&logo=java&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=round-square&logo=pytorch&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=round-square&logo=OpenCV&logoColor=Purple"/></a> </br>
