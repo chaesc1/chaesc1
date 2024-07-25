@@ -12,13 +12,7 @@ I am a member of SSAFY 12, specializing in Java. I primarily work with Java, Spr
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=round-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazon-aws&logoColor=white"/>
 
 ### Frontend
-<img src="https://img.shields.io/badge/Typescript-FDB515?style=round-square&logo=TypeScript&logoColor=Purple"/>
-<img src="https://img.shields.io/badge/Expo-9933CC?style=round-square&logo=Expo&logoColor=Purple"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black"/>
-
-### Other
-<img src="https://img.shields.io/badge/Clang-A8B9CC?style=round-square&logo=C&logoColor=black"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=round-square&logo=dotnet&logoColor=black"/>
+<img src="https://img.shields.io/badge/Typescript-FDB515?style=round-square&logo=TypeScript&logoColor=Purple"/> <img src="https://img.shields.io/badge/Expo-9933CC?style=round-square&logo=Expo&logoColor=Purple"/> <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black"/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaesc1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
